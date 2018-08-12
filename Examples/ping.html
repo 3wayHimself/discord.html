@@ -1,0 +1,14 @@
+<!DOCTYPE discord.html>
+
+<html>
+	<bot token="your gay token">
+		<event type="message" out="msg">
+			<if condition="msg.content equals html.ping">
+				<message reply="true" content="Pong!" />
+				<log type="info" message="[{{msg.timestamp}}] {{log.type}}: {{msg.author}} used the ping command." />
+				<!-- [20-10-18 12:06.03 PM] INFO: 3way used the ping command-->
+				<!-- [DD-MM-YY HH:MM.SS AP]the 30th of october at 12:06 (& 3 seconds) PM -->
+			</if>
+		</event>
+	</bot>
+</html>
