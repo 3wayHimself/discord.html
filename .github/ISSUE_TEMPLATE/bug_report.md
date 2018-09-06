@@ -21,7 +21,8 @@ If applicable, add screenshots to help explain your problem.
 **please complete the following information:**
  - OS: [e.g. Windows, Linux]
  - Visual Studio version: [e.g. 2013, 2017] 
- - DotNet Version: 
+ - DotNet framework version: [e.g. 4.5, 4.7.2]
+ - Discord.HTML version: [e.g. 1.0.0, 1.4.2]
 
 **Additional context**
 Add any other context about the problem here.

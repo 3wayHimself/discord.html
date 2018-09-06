@@ -328,3 +328,14 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+discord.html/Configurizer.cs
+Examples/ping.html
+discord.html/utils.cs
+*.cs
+discord.html/App.config
+discord.html/App.config
+discord.html/packages.config
+Examples/ping.html
+discord.html/App.config
+*.cs
+Examples/ping.html
